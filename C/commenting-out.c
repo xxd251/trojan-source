@@ -1,12 +1,8 @@
-#include <stdio.h>
-#include <stdbool.h>
+include <stdio.h>
 
 int main() {
-    bool isAdmin = false;
-    /*‮ } ⁦if (isAdmin)⁩ ⁦ begin admins only */
-        printf("You are an admin.\n");
-    /* end admins only ‮ { ⁦*/
+    /* Say hello; newline⁧ /* return 0 ;
+    printf("Hello world.\n");
     return 0;
 }
-
 
